@@ -7,7 +7,7 @@ import java.util.Map.Entry;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class HashMap_ass{
+public class ass1{
     
     public static List<String> sortSales(Map<String, Integer> sales) {
         // Convert the map entries into a list
